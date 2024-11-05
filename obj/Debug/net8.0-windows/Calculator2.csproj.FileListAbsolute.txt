@@ -1,0 +1,16 @@
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.Form1.resources
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.csproj.GenerateResource.cache
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.AssemblyInfoInputs.cache
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.AssemblyInfo.cs
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.csproj.CoreCompileInputs.cache
+C:\ProgObiekIGraf\Calculator2\bin\Debug\net8.0-windows\Calculator2.exe
+C:\ProgObiekIGraf\Calculator2\bin\Debug\net8.0-windows\Calculator2.deps.json
+C:\ProgObiekIGraf\Calculator2\bin\Debug\net8.0-windows\Calculator2.runtimeconfig.json
+C:\ProgObiekIGraf\Calculator2\bin\Debug\net8.0-windows\Calculator2.dll
+C:\ProgObiekIGraf\Calculator2\bin\Debug\net8.0-windows\Calculator2.pdb
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.dll
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\refint\Calculator2.dll
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.pdb
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\Calculator2.genruntimeconfig.cache
+C:\ProgObiekIGraf\Calculator2\obj\Debug\net8.0-windows\ref\Calculator2.dll
